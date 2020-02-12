@@ -1,6 +1,6 @@
 # Mpv-Windows
 General mpv configuration on window<br/>
 
-locate files in config path, for example:<br>
+locate portable_config folder next to mpv.exe, for example:<br>
 
-`C:\Users\Username\AppData\Roaming\mpv`
+`C:\Program Files\mpv`
