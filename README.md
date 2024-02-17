@@ -1,6 +1,6 @@
 # Mpv-Windows
-General mpv configuration on windows<br/>
+General MPV configuration for windows
 
-locate portable_config folder next to mpv.exe, for example:<br>
+locate portable_config folder next to mpv.exe, for example:
 
 `C:\Users\Your-UserName\Mpv`
